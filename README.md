@@ -19,3 +19,7 @@ In this repository, two methods of fetching data from an API are implemented.
     cd fetch
     ```
 4. Open the HTML file in any browser to see the output.
+
+## Screenshot of fetch api
+![image](https://github.com/vidhijain1126/fetch/assets/138992831/e07ef2df-6723-4579-a08e-c5c5996c04d1)
+
